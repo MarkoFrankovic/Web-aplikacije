@@ -26,7 +26,6 @@
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>
           <div class="jumbotron">
-            
   <h1 class="display-4">Dobrodošao!</h1>
   <p class="lead">Pozdrav novi korisniče!</p>
   <hr class="my-4">
